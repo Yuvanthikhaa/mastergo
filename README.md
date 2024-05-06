@@ -1,7 +1,6 @@
-# mastergo
+# mastergo replication
 
-A new Flutter project.
-
+Replication of https://www.uistore.design/items/mastergo-free-ui-kit-for-sketch-and-figma/
 ## Getting Started
 
 This project is a starting point for a Flutter application.
